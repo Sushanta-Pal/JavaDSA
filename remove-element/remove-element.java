@@ -3,7 +3,7 @@ class Solution {
         int c=0;
         for(int i:nums){
             if (val!=i) {
-                nums[c]=i;
+                 nums[c]=i;
                 c++;
             }
         }
